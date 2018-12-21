@@ -1,0 +1,14 @@
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\bin\Debug\netcoreapp2.1\InterviewapiService.deps.json
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\bin\Debug\netcoreapp2.1\InterviewapiService.runtimeconfig.json
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\bin\Debug\netcoreapp2.1\InterviewapiService.runtimeconfig.dev.json
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\bin\Debug\netcoreapp2.1\InterviewapiService.dll
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\obj\Debug\netcoreapp2.1\InterviewapiService.csprojAssemblyReference.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\obj\Debug\netcoreapp2.1\InterviewapiService.csproj.CoreCompileInputs.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\obj\Debug\netcoreapp2.1\InterviewapiService.RazorAssemblyInfo.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\obj\Debug\netcoreapp2.1\InterviewapiService.RazorAssemblyInfo.cs
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\obj\Debug\netcoreapp2.1\InterviewapiService.AssemblyInfoInputs.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\obj\Debug\netcoreapp2.1\InterviewapiService.AssemblyInfo.cs
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\obj\Debug\netcoreapp2.1\InterviewapiService.RazorTargetAssemblyInfo.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\bin\Debug\netcoreapp2.1\InterviewapiService.pdb
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\obj\Debug\netcoreapp2.1\InterviewapiService.dll
+E:\POC-DB\RECRUITMENT-POC\RectapiService\InterviewapiService\obj\Debug\netcoreapp2.1\InterviewapiService.pdb

@@ -1,0 +1,14 @@
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\bin\Debug\netcoreapp2.1\ProfileapiService.deps.json
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\bin\Debug\netcoreapp2.1\ProfileapiService.runtimeconfig.json
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\bin\Debug\netcoreapp2.1\ProfileapiService.runtimeconfig.dev.json
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\bin\Debug\netcoreapp2.1\ProfileapiService.dll
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\obj\Debug\netcoreapp2.1\ProfileapiService.csprojAssemblyReference.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\obj\Debug\netcoreapp2.1\ProfileapiService.csproj.CoreCompileInputs.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\obj\Debug\netcoreapp2.1\ProfileapiService.RazorAssemblyInfo.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\obj\Debug\netcoreapp2.1\ProfileapiService.RazorAssemblyInfo.cs
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\obj\Debug\netcoreapp2.1\ProfileapiService.AssemblyInfoInputs.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\obj\Debug\netcoreapp2.1\ProfileapiService.AssemblyInfo.cs
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\obj\Debug\netcoreapp2.1\ProfileapiService.RazorTargetAssemblyInfo.cache
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\bin\Debug\netcoreapp2.1\ProfileapiService.pdb
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\obj\Debug\netcoreapp2.1\ProfileapiService.dll
+E:\POC-DB\RECRUITMENT-POC\RectapiService\ProfileapiService\obj\Debug\netcoreapp2.1\ProfileapiService.pdb
